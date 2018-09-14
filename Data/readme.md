@@ -1,8 +1,12 @@
+## Running data notebooks
 
-__Here there are 3 notebooks to run starting from raw data (available at download link attached) in this order:__
 
 <br>
 <hr>
+
+__Here there are 3 notebooks to run starting from raw data (available at download link attached) in this order:__
+
+
 
 1. Dataframe_building.ipynb
 2. Dataset structure.ipynb
